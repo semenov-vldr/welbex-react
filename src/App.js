@@ -1,5 +1,3 @@
-// import './App.css';
-import './main.sass';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import Footer from './components/Footer/Footer';
@@ -12,9 +10,7 @@ function App() {
     <main>
     <Hero />
     </main>
-    
     <Footer />
-
     </div>
   );
 }
