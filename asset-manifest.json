@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/welbex-react/static/css/main.59a1d770.css",
+    "main.css": "/welbex-react/static/css/main.728388b3.css",
     "main.js": "/welbex-react/static/js/main.39bf3e10.js",
     "static/media/bg-decor.png": "/welbex-react/static/media/bg-decor.aa6e4a82d8697243cb48.png",
     "static/media/bg-decor-mobile.png": "/welbex-react/static/media/bg-decor-mobile.ed34a933e1783bafbbd8.png",
@@ -9,11 +9,11 @@
     "static/media/viber.svg": "/welbex-react/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
     "index.html": "/welbex-react/index.html",
     "static/media/telegram.svg": "/welbex-react/static/media/telegram.ec28ad3ae01fc187af4c6626094c876b.svg",
-    "main.59a1d770.css.map": "/welbex-react/static/css/main.59a1d770.css.map",
+    "main.728388b3.css.map": "/welbex-react/static/css/main.728388b3.css.map",
     "main.39bf3e10.js.map": "/welbex-react/static/js/main.39bf3e10.js.map"
   },
   "entrypoints": [
-    "static/css/main.59a1d770.css",
+    "static/css/main.728388b3.css",
     "static/js/main.39bf3e10.js"
   ]
 }
